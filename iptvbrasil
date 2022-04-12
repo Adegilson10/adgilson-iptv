@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TNT ESPORTES" tvg-logo="https://i.imgur.com/oWAubXu.jpg" group-title="ESPORTES",TNT ESPORTES
+#EXTINF:-1 tvg-id="TNT ESPORTES" tvg-logo="https://i.imgur.com/oWAubXu.jpg" group-title="CANAIS",TNT ESPORTES
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="SBT SP" tvg-logo="https://i.imgur.com/q6rmaNn.jpg" group-title="Canais", SBT SP
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1511072792_b1000000.m3u8
+#EXTINF:-1 tvg-id="SBT SP" tvg-logo="https://i.imgur.com/osyd3XG.jpg" group-title="CANAIS", SBT SP
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323_b350000.m3u8
 
-#EXTINF:-1 tvg-logo"https://i.imgur.com/yHryW3l.png?1" group-title="ABERTOS",Band
-http://50.7.34.155:2201/BR/Globo_HD_SP-br/tracks-v1a1/2022/04/12/13/31/03-05005.ts
+#EXTINF:-1 tvg-id="REDTV" tvg-logo="https://i.imgur.com/2u9pMBC.jpg" group-title="CANAIS", REDTV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w1496849384.m3u8
 
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/d3dCFDJ.jpg" group-title="Canais", RECORD
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/d3dCFDJ.jpg" group-title="CANAIS", RECORD
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND SP
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="CANAIS", BAND SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
