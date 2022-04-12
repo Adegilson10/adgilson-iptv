@@ -4,7 +4,7 @@
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="SBT SP" tvg-logo="https://i.imgur.com/osyd3XG.jpg" group-title="CANAIS", SBT SP
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323_b350000.m3u8
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="REDTV" tvg-logo="https://i.imgur.com/2u9pMBC.jpg" group-title="CANAIS", REDTV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w1496849384.m3u8
